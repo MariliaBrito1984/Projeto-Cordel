@@ -99,6 +99,7 @@ section#img02{
 footer {
     background-color: black;
     text-align: center;
+    font-size: 1.5vw;
     color: white;
     padding: 10px;
 }
